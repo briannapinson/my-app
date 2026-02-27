@@ -2,7 +2,7 @@
 
 Submitted by: Brianna Pinson
 
-This web app shows a few alternative, metal, and punk bands along with links to their shows and tours. It also has information regarding their recent releases, including songs and albums.
+This web app shows a few alternative, metal, and punk bands along with links to their shows and tours. Below the artist displays the main genres of each band. It also has information regarding their recent releases, including songs and albums.
 
 Time spent: 3 hours spent in total
 
@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 - [X] Buttons or links to a related resources are on each card component
   - [X] All cards have buttons or links in addition to text
 - [X] The site is responsive for both desktop and mobile formats
-  - [ ] Web app is shown in a mobile format
-  - [ ] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. 
+  - [X] Web app is shown in a mobile format
+  - [X] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. 
 
 The following **additional** features are implemented:
 
@@ -36,16 +36,11 @@ Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was generally challenging getting used to working with React + Vite. It was mostly growing pains and tedious gathering links/image addresses, but was able to adjust quickly without much problem. 
 
 ## License
 
