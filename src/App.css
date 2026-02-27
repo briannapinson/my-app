@@ -7,6 +7,26 @@
   box-sizing: border-box;
 }
 
+.jacquard-12-regular {
+  font-family: "Jacquard 12", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.jersey-10-regular {
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Jacquard 12", system-ui;
+}
+
+h2, h3, p{
+  font-family: "Jersey 10", sans-serif;
+}
+
 .card {
   padding: 1rem;
   background-color: #1e1e1e;
@@ -66,3 +86,7 @@
   opacity: 1;
 }
 
+.divider {
+  width: 20%;
+  padding-bottom: 1rem;
+}

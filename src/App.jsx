@@ -1,10 +1,14 @@
 import './App.css'
+import hearts from './images/hearts.png'
 
 function App() {
   return (
   <div>
     <h1>Alternative Artists Live</h1> 
-    <h3>Take a look at shows in your area!</h3>
+    <h2>Take a look at shows in your area!</h2>
+
+    <img className="divider" src={hearts} alt="Heart Divider"/>
+
     <div className="cardGrid">
 
         <div className="card">
@@ -16,7 +20,7 @@ function App() {
             <a href="https://windwalkersofficial.com/pages/tour" target="_blank">Find Shows</a>
 
           </div>
-          <h4>Wind Walkers</h4>
+          <h3>Wind Walkers</h3>
           <p>Metalcore & Alternative Metal</p>
         </div>
 
@@ -28,7 +32,7 @@ function App() {
             <img className="overlayImg" src="https://m.media-amazon.com/images/I/81ds966DRaL._UF1000,1000_QL80_.jpg" alt="Memphis May Fire Album"/>
             <a href="https://www.memphismayfire.com/#tour" target="_blank">Find Shows</a>
           </div>
-          <h4>Memphis May Fire</h4>
+          <h3>Memphis May Fire</h3>
           <p>Alternative Metal, Metalcore, Post-Hardcore & Heavy Metal</p>
         </div>
 
@@ -40,7 +44,7 @@ function App() {
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjq3Enl70KsEGsGnRXk58SSsw0wQ6vdeZcg&s" alt="The Home Team Album"/>
             <a href="https://www.thehometeammerch.com/pages/tour-1" target="_blank">Find Shows</a>
           </div>
-          <h4>The Home Team</h4>
+          <h3>The Home Team</h3>
           <p>Heavy Pop, Alternative Rock & Pop Rock</p>
         </div>
 
@@ -52,7 +56,7 @@ function App() {
             <img className="overlayImg" src="https://f4.bcbits.com/img/a1729259656_16.jpg" alt="Arrows in Action Album"/>
             <a href="https://arrowsinaction.com/home#tourdates" target="_blank">Find Shows</a>
           </div>
-          <h4>Arrows in Action</h4>
+          <h3>Arrows in Action</h3>
           <p>Pop Rock, Alternative Rock & Indie Rock</p>
         </div>
 
@@ -64,7 +68,7 @@ function App() {
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKJbg3fiOHbguAT8v4wbx9_WMz-N-oNzj3w&s" alt="Hail the Sun Album"/>
             <a href="https://equalvision.com/pages/hail-the-sun-tour-dates" target="_blank">Find Shows</a>
           </div>
-          <h4>Hail the Sun</h4>
+          <h3>Hail the Sun</h3>
           <p>Progressive Post-Hardcore, Math Rock, Experimental Rock & Swancore</p>
         </div>
 
@@ -76,7 +80,7 @@ function App() {
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCxubbOTKp4DVTjJkNc_8ZpgVfrUbwNePZlg&s" alt="Bilmuri Album"/>
             <a href="https://www.bilmuri.com/tour" target="_blank">Find Shows</a>
           </div>
-          <h4>BILMURI</h4>
+          <h3>BILMURI</h3>
           <p>Post-Hardcore, Country Metalcore & Emo</p>
         </div>
 
@@ -88,7 +92,7 @@ function App() {
             <img className="overlayImg" src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/e1/b8/b3e1b8df-e277-b82d-59bd-e33905113838/artwork.jpg/600x600cc.webp" alt="Makari Album"/>
             <a href="https://makariband.com/pages/tour" target="_blank">Find Shows</a>
           </div>
-          <h4>Makari</h4>
+          <h3>Makari</h3>
           <p>Progressive Rock, Post-Hardcore & Alternative Rock</p>
         </div>
 
@@ -100,7 +104,7 @@ function App() {
             <img className="overlayImg" src="https://cdn.shopify.com/s/files/1/0689/6061/6685/files/QEU__6i.png?v=1752058705" alt="Dayseeker Album"/>
             <a href="https://dayseeker.band/pages/tour" target="_blank">Find Shows</a>
           </div>
-          <h4>Dayseeker</h4>
+          <h3>Dayseeker</h3>
           <p>Melodic Metalcore, Post-Hardcore & Rock</p>
         </div>
 
@@ -112,7 +116,7 @@ function App() {
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREFN0uejPO5pRWcBoD2fCKOqo6L8R5zDEMhA&s" alt="Avenged Sevenfold Album"/>
             <a href="https://www.avengedsevenfold.com/tour" target="_blank">Find Shows</a>
           </div>
-          <h4>Avenged Sevenfold</h4>
+          <h3>Avenged Sevenfold</h3>
           <p>Heavy Metal, Hard Rock & Progressive Metal</p>
         </div>
 
@@ -124,7 +128,7 @@ function App() {
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZyUK3BPD_AQKH-6MqU3HS5s4z7FypyAMmw&s" alt="Bad Omens Album"/>
             <a href="https://badomensofficial.com/tour" target="_blank">Find Shows</a>
           </div>
-          <h4>Bad Omens</h4>
+          <h3>Bad Omens</h3>
           <p>Metalcore & Alternative Metal</p>
         </div>
 
@@ -136,7 +140,7 @@ function App() {
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2TKnwEvKm_0JRQ3b1O_fx-C-eR86IGn5HMQ&s" alt="Caskets Album"/>
             <a href="https://shopus.casketsofficial.com/pages/tour" target="_blank">Find Shows</a>
           </div>
-          <h4>Caskets</h4>
+          <h3>Caskets</h3>
           <p>Post-Hardcore, Alternative Rock & Metalcore</p>
         </div>
 
@@ -148,7 +152,7 @@ function App() {
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdMkZVn3t9kbit6T1VnmUo_OwsqWEqdsteA&s" alt="STARSET Album"/>
             <a href="https://www.starsetonline.com/#tour" target="_blank">Find Shows</a>
           </div>
-          <h4>STARSET</h4>
+          <h3>STARSET</h3>
           <p>Electronic Rock, Hard Rock & Alternative Metal</p>
         </div>
 
@@ -160,7 +164,7 @@ function App() {
             <img className="overlayImg" src="https://res.cloudinary.com/epitaph/image/upload/h_925,w_925/v1/epitaph/releases/88089_Nevertel_StartAgain_3kpx" alt="Nevertel Album"/>
             <a href="https://www.nevertelband.com/tour" target="_blank">Find Shows</a>
           </div>
-          <h4>Nevertel</h4>
+          <h3>Nevertel</h3>
           <p>Alternative Rock, Nu-Metal & EDM</p>
         </div>
 
@@ -172,7 +176,7 @@ function App() {
             <img className="overlayImg" src="https://i.scdn.co/image/ab67616d0000b273a403369f4a18977c959a59b5" alt="Imminence Album"/>
             <a href="https://imminenceswe.com/pages/tour-dates" target="_blank">Find Shows</a>
           </div>
-          <h4>Imminence</h4>
+          <h3>Imminence</h3>
           <p>Alternative metalcore, Post-Hardcore, Violincore</p>
         </div>
 
@@ -184,7 +188,7 @@ function App() {
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjegaYqHRKSWqN97BvCXkdL3lB6tEV8HnnvA&s" alt="Four Year Strong Album"/>
             <a href="https://fouryearstrong.com" target="_blank">Find Shows</a>
           </div>
-          <h4>Four Year Strong</h4>
+          <h3>Four Year Strong</h3>
           <p>Pop-Punk, Alternative Rock, Easycore</p>
         </div>
 
