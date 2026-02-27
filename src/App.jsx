@@ -13,10 +13,11 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>I Don't Belong Here (EP)</b></p>
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8kSxNXFsfPVam92wOyQR2yZuS4ji0gkNVg&s" alt="Wind Walkers Album"/>
+            <a href="https://windwalkersofficial.com/pages/tour" target="_blank">Find Shows</a>
+
           </div>
           <h4>Wind Walkers</h4>
           <p>Metalcore & Alternative Metal</p>
-          <a href="https://windwalkersofficial.com/pages/tour" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -25,10 +26,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>Shapeshifter (Album)</b></p>
             <img className="overlayImg" src="https://m.media-amazon.com/images/I/81ds966DRaL._UF1000,1000_QL80_.jpg" alt="Memphis May Fire Album"/>
+            <a href="https://www.memphismayfire.com/#tour" target="_blank">Find Shows</a>
           </div>
           <h4>Memphis May Fire</h4>
           <p>Alternative Metal, Metalcore, Post-Hardcore & Heavy Metal</p>
-          <a href="https://www.memphismayfire.com/#tour" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -37,10 +38,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>The Crucible Of Life (Deluxe Edition)</b></p>
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjq3Enl70KsEGsGnRXk58SSsw0wQ6vdeZcg&s" alt="The Home Team Album"/>
+            <a href="https://www.thehometeammerch.com/pages/tour-1" target="_blank">Find Shows</a>
           </div>
           <h4>The Home Team</h4>
           <p>Heavy Pop, Alternative Rock & Pop Rock</p>
-          <a href="https://www.thehometeammerch.com/pages/tour-1" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -49,10 +50,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>I Think I've Been Here Before (Album)</b></p>
             <img className="overlayImg" src="https://f4.bcbits.com/img/a1729259656_16.jpg" alt="Arrows in Action Album"/>
+            <a href="https://arrowsinaction.com/home#tourdates" target="_blank">Find Shows</a>
           </div>
           <h4>Arrows in Action</h4>
           <p>Pop Rock, Alternative Rock & Indie Rock</p>
-          <a href="https://arrowsinaction.com/home#tourdates" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -61,10 +62,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>cut. turn. fade. back. (Album)</b></p>
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKJbg3fiOHbguAT8v4wbx9_WMz-N-oNzj3w&s" alt="Hail the Sun Album"/>
+            <a href="https://equalvision.com/pages/hail-the-sun-tour-dates" target="_blank">Find Shows</a>
           </div>
           <h4>Hail the Sun</h4>
           <p>Progressive Post-Hardcore, Math Rock, Experimental Rock & Swancore</p>
-          <a href="https://equalvision.com/pages/hail-the-sun-tour-dates" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -73,10 +74,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>TWICE (Single)</b></p>
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCxubbOTKp4DVTjJkNc_8ZpgVfrUbwNePZlg&s" alt="Bilmuri Album"/>
+            <a href="https://www.bilmuri.com/tour" target="_blank">Find Shows</a>
           </div>
           <h4>BILMURI</h4>
           <p>Post-Hardcore, Country Metalcore & Emo</p>
-          <a href="https://www.bilmuri.com/tour" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -85,10 +86,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>Disappearing Act (Single)</b></p>
             <img className="overlayImg" src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/e1/b8/b3e1b8df-e277-b82d-59bd-e33905113838/artwork.jpg/600x600cc.webp" alt="Makari Album"/>
+            <a href="https://makariband.com/pages/tour" target="_blank">Find Shows</a>
           </div>
           <h4>Makari</h4>
           <p>Progressive Rock, Post-Hardcore & Alternative Rock</p>
-          <a href="https://makariband.com/pages/tour" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -97,10 +98,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>Creature In The Black Night (Album)</b></p>
             <img className="overlayImg" src="https://cdn.shopify.com/s/files/1/0689/6061/6685/files/QEU__6i.png?v=1752058705" alt="Dayseeker Album"/>
+            <a href="https://dayseeker.band/pages/tour" target="_blank">Find Shows</a>
           </div>
           <h4>Dayseeker</h4>
           <p>Melodic Metalcore, Post-Hardcore & Rock</p>
-          <a href="https://dayseeker.band/pages/tour" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -109,10 +110,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>Magic (Single)</b></p>
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREFN0uejPO5pRWcBoD2fCKOqo6L8R5zDEMhA&s" alt="Avenged Sevenfold Album"/>
+            <a href="https://www.avengedsevenfold.com/tour" target="_blank">Find Shows</a>
           </div>
           <h4>Avenged Sevenfold</h4>
           <p>Heavy Metal, Hard Rock & Progressive Metal</p>
-          <a href="https://www.avengedsevenfold.com/tour" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -121,10 +122,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>Left For Good (Single)</b></p>
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZyUK3BPD_AQKH-6MqU3HS5s4z7FypyAMmw&s" alt="Bad Omens Album"/>
+            <a href="https://badomensofficial.com/tour" target="_blank">Find Shows</a>
           </div>
           <h4>Bad Omens</h4>
           <p>Metalcore & Alternative Metal</p>
-          <a href="https://badomensofficial.com/tour" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -133,10 +134,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>Good Enough (feat. Caskets)</b></p>
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2TKnwEvKm_0JRQ3b1O_fx-C-eR86IGn5HMQ&s" alt="Caskets Album"/>
+            <a href="https://shopus.casketsofficial.com/pages/tour" target="_blank">Find Shows</a>
           </div>
           <h4>Caskets</h4>
           <p>Post-Hardcore, Alternative Rock & Metalcore</p>
-          <a href="https://shopus.casketsofficial.com/pages/tour" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -145,10 +146,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>WE ARE EMPIRE (Single)</b></p>
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdMkZVn3t9kbit6T1VnmUo_OwsqWEqdsteA&s" alt="STARSET Album"/>
+            <a href="https://www.starsetonline.com/#tour" target="_blank">Find Shows</a>
           </div>
           <h4>STARSET</h4>
           <p>Electronic Rock, Hard Rock & Alternative Metal</p>
-          <a href="https://www.starsetonline.com/#tour" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -157,10 +158,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>Start Again (Album)</b></p>
             <img className="overlayImg" src="https://res.cloudinary.com/epitaph/image/upload/h_925,w_925/v1/epitaph/releases/88089_Nevertel_StartAgain_3kpx" alt="Nevertel Album"/>
+            <a href="https://www.nevertelband.com/tour" target="_blank">Find Shows</a>
           </div>
           <h4>Nevertel</h4>
           <p>Alternative Rock, Nu-Metal & EDM</p>
-          <a href="https://www.nevertelband.com/tour" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -169,10 +170,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>The Return of The Black (Album)</b></p>
             <img className="overlayImg" src="https://i.scdn.co/image/ab67616d0000b273a403369f4a18977c959a59b5" alt="Imminence Album"/>
+            <a href="https://imminenceswe.com/pages/tour-dates" target="_blank">Find Shows</a>
           </div>
           <h4>Imminence</h4>
           <p>Alternative metalcore, Post-Hardcore, Violincore</p>
-          <a href="https://imminenceswe.com/pages/tour-dates" target="_blank">Find Shows</a>
         </div>
 
         <div className="card">
@@ -181,10 +182,10 @@ function App() {
             <h2>Latest Release</h2>
             <p><b>WHIPLASH (Single)</b></p>
             <img className="overlayImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjegaYqHRKSWqN97BvCXkdL3lB6tEV8HnnvA&s" alt="Four Year Strong Album"/>
+            <a href="https://fouryearstrong.com" target="_blank">Find Shows</a>
           </div>
           <h4>Four Year Strong</h4>
           <p>Pop-Punk, Alternative Rock, Easycore</p>
-          <a href="https://fouryearstrong.com" target="_blank">Find Shows</a>
         </div>
 
     </div>
